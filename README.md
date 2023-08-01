@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Taranga
-- 👀 I’m interested in C#, python development
+- 👀 I’m C# backend console application developer,
+- I know python script development
 - 🌱 I’m currently learning blazor
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, mail to taranganaik32@gmail.com
